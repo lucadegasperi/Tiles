@@ -1,4 +1,4 @@
-<?php
+<?php if(!defined('TILES')) { exit('no direct script access allowed!'); }
 
 //
 //  convenience class for storing tiles

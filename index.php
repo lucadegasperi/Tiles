@@ -1,5 +1,6 @@
 <?php
 
+define('TILES', 'Tiles');
 define('DS', DIRECTORY_SEPARATOR);
 define('PHP','.php');
 define('JSON', '.json');

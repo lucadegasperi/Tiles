@@ -1,3 +1,4 @@
+<?php if(!defined('TILES')) { exit('no direct script access allowed!'); } ?>
 <!DOCTYPE HTML>
 <html lang="en-US">
 	<head>

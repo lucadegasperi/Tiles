@@ -1,4 +1,4 @@
-<?php
+<?php if(!defined('TILES')) { exit('no direct script access allowed!'); }
 
 //
 //  class for extending and rendering tiles
