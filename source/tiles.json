@@ -1,0 +1,31 @@
+{
+	title: 'Tiles',
+	subtitle: 'Generating hub pages',
+	template: 'ticktock',
+	columns: [
+		[
+			{
+				type: 'social',
+				data: {
+					title: 'Follow me on:',	
+					description: '',
+					social_networks: [
+						{
+							social_name: 'Dribbble',
+							social_url: 'http://dribbble.com/lucadegasperi',
+						},
+						{
+							social_name: 'Facebook',
+							social_url: 'http://facebook.com/luca.degasperi',
+						},
+						{
+							social_name: 'Twitter',
+							social_url: 'http://twitter.com/lucadegasperi',
+						}
+					],
+				}
+			},
+		],
+		
+	],
+}
